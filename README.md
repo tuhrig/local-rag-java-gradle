@@ -33,6 +33,12 @@ You can find my blog post about this example right here:
 pip install flask sentence-transformers
 ```
 
+Optional if not already installed:
+
+```
+pip install torch
+```
+
 You also need a local embedding model:
 
 📥 **Download model (all-MiniLM-L6-v2):**  
